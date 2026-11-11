@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { useRef, useState } from 'react';
 import type { ChangeEvent, DragEvent } from 'react';
 import { ArrowLeft, ArrowRight, Check, Download, FileSpreadsheet, Upload, X } from 'lucide-react';

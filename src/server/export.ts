@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import ExcelJS from 'exceljs';
 import type { CatalogKind, ProcessOperation } from '../shared/contracts';
 import { formatDecimal } from '../shared/decimal';

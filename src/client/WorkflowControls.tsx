@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import type { Machine, ProcessOperation } from '../shared/contracts';
 import { poNumber } from './ui';
 

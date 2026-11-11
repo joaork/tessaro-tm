@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { useEffect, useMemo, useRef, useState } from 'react';
 import type { ChangeEvent, FormEvent } from 'react';
 import {

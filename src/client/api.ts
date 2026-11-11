@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import type { Issue } from '../shared/contracts';
 
 export class ApiError extends Error {

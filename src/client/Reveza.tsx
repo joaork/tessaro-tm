@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { useEffect, useState } from 'react';
 import { CalendarClock, Plus, RefreshCw, Save, Trash2 } from 'lucide-react';
 import type { Workspace } from '../shared/contracts';

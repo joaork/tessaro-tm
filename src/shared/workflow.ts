@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import type { OperationInput, PoPreview, ProcessOperation } from './contracts';
 
 export const audioFormats = {

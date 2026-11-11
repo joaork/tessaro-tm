@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import type { Machine, MtmElement, PoPreview } from '../shared/contracts';
 import { addDecimals, multiplyDecimals } from '../shared/decimal';
 import { machineSchema, mtmSchema, operationSchema } from '../shared/schemas';

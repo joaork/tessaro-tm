@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { readdir, rename } from 'node:fs/promises';
 import { join, relative, resolve, sep } from 'node:path';
 

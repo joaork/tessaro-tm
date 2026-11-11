@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { z } from 'zod';
 import { addDecimals, ceilingMinutes, multiplyDecimals } from '../shared/decimal';
 import { minuteOfDay as minute, protectedJobs } from '../shared/workflow';

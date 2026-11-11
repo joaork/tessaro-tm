@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { useEffect, useRef, useState } from 'react';
 import { Mic, Square, X } from 'lucide-react';
 import { microphoneTimeLimit, startRecording, stopMicrophone } from './recording';

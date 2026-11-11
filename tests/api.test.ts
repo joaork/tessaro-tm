@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { mkdtemp, rm, rmdir } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';

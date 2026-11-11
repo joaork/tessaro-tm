@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import type { Metadata, Viewport } from 'next';
 import { Suspense } from 'react';
 import type { ReactNode } from 'react';

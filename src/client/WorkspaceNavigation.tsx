@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
 import { Calculator, ClipboardList, Factory, GitBranch, LayoutDashboard, PanelLeftOpen, Plus, Upload, X } from 'lucide-react';

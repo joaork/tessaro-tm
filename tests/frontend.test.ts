@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { afterEach, expect, it, vi } from 'vitest';
 import { request } from '../src/client/api';
 import { recordedFile, startRecording } from '../src/client/recording';

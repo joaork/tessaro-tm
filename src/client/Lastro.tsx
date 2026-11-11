@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { useEffect, useRef, useState } from 'react';
 import { ArrowRight, ClipboardCheck, FileUp, RefreshCw } from 'lucide-react';
 import type { ProcessOperation, Workspace } from '../shared/contracts';

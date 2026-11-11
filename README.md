@@ -99,8 +99,6 @@ npm.cmd run validate:kit -- 'docs/referencias/kit-oficial' 'CAMINHO_DA_FICHA.xls
 
 O [plano de testes](docs/plano-de-testes.md) reúne os resultados da suíte, da conferência oficial e do ensaio no navegador.
 
-A habilidade `$antivibe` fica disponível sob demanda no projeto em `.agents/skills/antivibe/`. A [auditoria do frontend](docs/auditoria-frontend.md) registra as correções e os testes da interface. [Versão do Antivibe usada](https://github.com/mohi-devhub/antivibe/tree/9991d12ec52bc0b90eeab893fef27398be1ef616).
-
 ## Organização
 
 | Caminho | Conteúdo |

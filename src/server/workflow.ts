@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { createHash } from 'node:crypto';
 import { parse } from 'csv-parse/sync';
 import type { Machine, MtmElement, OperationInput, PoPreview, ProcessOperation } from '../shared/contracts';

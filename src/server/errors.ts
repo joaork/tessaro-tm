@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import type { z } from 'zod';
 import type { Issue } from '../shared/contracts';
 

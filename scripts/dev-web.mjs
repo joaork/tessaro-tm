@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { spawn } from 'node:child_process';
 import { error as logError } from 'node:console';
 import { createRequire } from 'node:module';

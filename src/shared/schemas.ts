@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { z } from 'zod';
 import { DECIMAL_PATTERN, normalizeDecimal } from './decimal';
 

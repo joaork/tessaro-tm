@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { useEffect, useRef, useState } from 'react';
 import { ArrowDown, ArrowRight, ArrowUp, Download, FileAudio, Mic, Plus, TextCursorInput, Trash2 } from 'lucide-react';
 import type { OperationInput, Workspace } from '../shared/contracts';

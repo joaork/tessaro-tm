@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import type { NextConfig } from 'next';
 import { PHASE_DEVELOPMENT_SERVER } from 'next/constants';
 

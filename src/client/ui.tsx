@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import type { ReactNode } from 'react';
 import { AlertCircle, CheckCircle2, FlaskConical, Info, LoaderCircle } from 'lucide-react';
 import type { LucideIcon } from 'lucide-react';

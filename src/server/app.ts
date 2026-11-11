@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { extname } from 'node:path';
 import multipart from '@fastify/multipart';
 import fastifyStatic from '@fastify/static';

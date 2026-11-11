@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 export const demoMachines = [
   { code: 'DEMO-M01', description: 'Modelo fictício A', machineType: 'Reta', rpm: '4500', factor: '0.1' },
   { code: 'DEMO-M02', description: 'Modelo fictício B', machineType: 'Interlock', rpm: '4200', factor: '0.085' },

@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import ExcelJS from 'exceljs';
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import { suggestMapping } from '../src/shared/contracts';

@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { describe, expect, it } from 'vitest';
 import type { Machine, MtmElement, OperationInput } from '../src/shared/contracts';
 import { formatDecimal } from '../src/shared/decimal';

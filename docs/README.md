@@ -11,7 +11,6 @@ Para instalar e abrir a aplicação, comece pelo [README do projeto](../README.m
 | Usar os quatro módulos integrados | [Fluxo integrado da PO ao turno](fluxo-integrado.md) |
 | Reproduzir verificações | [Plano de testes](plano-de-testes.md) |
 | Instalar em uma VPS Linux | [Guia de implantação](deploy-vps.md) |
-| Conferir a revisão da interface | [Auditoria Antivibe do frontend](auditoria-frontend.md) |
 | Preparar apresentação e arguição | [Pitch de 5 minutos](pitch-5-minutos.md) e [perguntas da banca](perguntas-da-banca.md) |
 | Preparar uma conversa de piloto | [Validação com a Karsten](validacao-com-a-karsten.md), [business case e ROI](business-case-e-roi.md) e [roadmap](roadmap.md) |
 

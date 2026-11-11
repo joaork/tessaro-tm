@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 // Os limites são aplicados na entrada, enquanto os resultados mantêm todas as casas.
 export const DECIMAL_PATTERN = /^\d{1,12}(?:[.,]\d{1,18})?$/u;
 export const PRESENTATION_SCALE = 4;

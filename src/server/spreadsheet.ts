@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { extname } from 'node:path';
 import { parse } from 'csv-parse/sync';
 import { read, utils } from 'xlsx';

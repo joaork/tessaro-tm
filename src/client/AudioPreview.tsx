@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { useRef, useState } from 'react';
 import { Pause, Play } from 'lucide-react';
 

@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import type { Metadata } from 'next';
 import { isSectionPath, sectionPaths, sectionTitles } from '../../shared/routes';
 

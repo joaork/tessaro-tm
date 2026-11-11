@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 export const audioSizeLimit = 5 * 1024 * 1024;
 export const microphoneTimeLimit = 120;
 

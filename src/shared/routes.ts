@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 export const sectionTitles = {
   inicio: 'Painel de trabalho',
   'nova-operacao': 'Nova operação',

@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import type { CaptureSource } from './workflow';
 
 export type CatalogKind = 'machines' | 'mtm';

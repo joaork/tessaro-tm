@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import type { Issue, OperationInput } from '../shared/contracts';
 import { operationSchema } from '../shared/schemas';
 import { AppError, checked } from './errors';

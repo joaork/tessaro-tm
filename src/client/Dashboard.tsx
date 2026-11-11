@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { ArrowRight, ClipboardCheck, ClipboardList, Factory, FlaskConical, GitBranch } from 'lucide-react';
 import Link from 'next/link';
 import type { Workspace } from '../shared/contracts';

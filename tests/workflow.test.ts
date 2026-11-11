@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { afterEach, expect, it, vi } from 'vitest';
 import { createServer } from '../src/server/app';
 import type { ProcessOperation, Workspace } from '../src/shared/contracts';

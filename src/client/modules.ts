@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { AudioLines, CalendarRange, Layers3, TrendingDown } from 'lucide-react';
 
 export const modules = {

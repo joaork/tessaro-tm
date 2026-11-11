@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { useEffect, useRef, useState } from 'react';
 import type { FormEvent } from 'react';
 import { Factory, GitBranch, Pencil, Plus, Search, Upload, X } from 'lucide-react';

@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { createServer } from './app';

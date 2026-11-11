@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { randomUUID } from 'node:crypto';
 import { basename, win32 } from 'node:path';
 import { catalogFields, optionalCatalogFields } from '../shared/contracts';

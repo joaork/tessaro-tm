@@ -1,3 +1,5 @@
+// GitHub https://github.com/joaork
+
 import { Calculator } from 'lucide-react';
 import { useState } from 'react';
 import type { Workspace } from '../shared/contracts';
