@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+data/
+coverage/
+.env
+.env.*
+!.env.example
+*.sqlite*
+*.log
+*.local
+docs/referencias/regulamento_hackathon_karsten_oficial.pdf
+docs/referencias/kit-oficial/

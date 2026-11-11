@@ -1,0 +1,54 @@
+{
+  "name": "tessaro-tm",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Plataforma de Engenharia de Tempos e Métodos da Tessaro Soluções",
+  "engines": {
+    "node": ">=24.15 <25"
+  },
+  "scripts": {
+    "dev": "concurrently --kill-others --names API,WEB \"npm run dev:api\" \"npm run dev:web\"",
+    "dev:api": "node --env-file-if-exists=.env --watch --import tsx src/server/index.ts",
+    "dev:web": "node --env-file-if-exists=.env scripts/dev-web.mjs",
+    "start": "node --env-file-if-exists=.env --import tsx src/server/index.ts --static",
+    "build": "next build && node scripts/fix-export-segments.mjs",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "validate:kit": "node --import tsx scripts/validate-kit.ts"
+  },
+  "dependencies": {
+    "@fastify/multipart": "^9.0.0",
+    "@fastify/static": "^10.1.10",
+    "@fontsource-variable/manrope": "5.3.0",
+    "@fontsource/saira-condensed": "5.3.0",
+    "csv-parse": "^7.0.3",
+    "exceljs": "^4.4.0",
+    "fastify": "^5.0.0",
+    "lucide-react": "^0.468.0",
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "tsx": "^4.0.0",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz",
+    "zod": "^4.0.0"
+  },
+  "overrides": {
+    "exceljs": {
+      "uuid": "^11.1.1"
+    }
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "concurrently": "^9.0.0",
+    "eslint": "^9.0.0",
+    "eslint-plugin-react-hooks": "^7.0.0",
+    "typescript": "^5.9.0",
+    "typescript-eslint": "^8.0.0",
+    "vitest": "^4.0.0"
+  }
+}
